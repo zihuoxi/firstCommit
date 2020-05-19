@@ -1,6 +1,6 @@
 # test
 
-> A Vue.js project
+> A Vue.js project demo
 
 ## Build Setup
 
